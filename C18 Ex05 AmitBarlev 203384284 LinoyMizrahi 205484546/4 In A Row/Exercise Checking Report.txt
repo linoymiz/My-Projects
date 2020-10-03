@@ -1,0 +1,14 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 205484546 - Linoy Mizrahi
+Second Student Details: 203384284 - Amit Barlev
+Delivery Date.........: 17 - September - 2018
+Delivered In Delay....: No
+Delay Reason..........: -
+Visual Studio Version.: 2017
+Comments..............:
+1. Logic Driven By Events have been implemented.
+2. Can't seem to make the "SettingForm" warnings 
+about "Method 'System.Windows.Forms.Form.XXX' disapper, it doesn't affect the program function.
+*Might not present Error (It didn't present errors on my other computer).
+========================End Exercise Checking Report========================

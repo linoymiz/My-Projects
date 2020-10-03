@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 In A Row", "4 In A Row\4 In A Row.csproj", "{3F0B5887-2737-4F73-940E-3EF9170E054E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EBF46CBC-176F-4C70-A7C9-4F73A64DB80F}"
+	ProjectSection(SolutionItems) = preProject
+		4 In A Row\Exercise Checking Report.txt = 4 In A Row\Exercise Checking Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0B5887-2737-4F73-940E-3EF9170E054E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0B5887-2737-4F73-940E-3EF9170E054E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0B5887-2737-4F73-940E-3EF9170E054E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0B5887-2737-4F73-940E-3EF9170E054E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E21C4FE8-CE6C-410D-9D17-BEF64983DFCD}
+	EndGlobalSection
+EndGlobal
